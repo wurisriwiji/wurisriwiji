@@ -8,7 +8,7 @@ Saya bertanggung jawab untuk memonitor infrastruktur, security, dan fraud perusa
 
 Saat ini saya sedang berkuliah di Binus Online Learning jurusan Sistem Informasi dan berada di semester 7.  
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sri-wiji-sulistyo-wuri-62a732184/)ku ya.  
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/sri-wiji-sulistyo-wuri-62a732184/)ku ya.  
 
 <p align="left">
 <a href="https://github.com/wurisriwiji">
